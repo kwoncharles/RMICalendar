@@ -29,7 +29,8 @@ Implementing RMI(Remote Method Invocation) with JAVA
   ### $ java client.CalendarClientDriver
 
 
-## Warning
+
+# Warning
 
 1) Input datetime format have to be like "yy.MM.dd.hh.mm"
 
