@@ -32,6 +32,6 @@ Implementing RMI(Remote Method Invocation) with JAVA
 
 # Warning
 
-1) Input datetime format have to be like "yy.MM.dd.hh.mm"
+1) Input datetime format must to be like "yy.MM.dd.hh.mm"
 
 2) New schedule is added in sequence of date. And it won't be added if it conflicts with existing schedules.
